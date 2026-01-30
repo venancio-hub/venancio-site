@@ -1,0 +1,8 @@
+## Pages
+- [Adequação NR-12 | Venancio Consultoria](/nr12adequacao): Adequação de Máquinas e Equipamentos à NR-12. Laudos técnicos, análise de risco e projetos de segurança.
+- [Agendamento ASO Completo | Venancio Consultoria](/asoagendamento): Formulário completo para agendamento de ASO. Preencha os dados do colaborador e da empresa.
+- [Certificação OEA | Venancio Consultoria](/oea): Consultoria para certificação OEA (Operador Econômico Autorizado). Agilize seus processos de importação e exportação.
+- [Consultoria ISO | Venancio Consultoria](/isoassessoria): Implementação e auditoria de ISO 9001, ISO 14001 e ISO 45001. Gestão da Qualidade, Meio Ambiente e SST.
+- [Laudo de Opacidade (Fumaça Preta) | Venancio Consultoria](/laudoopacidade): Medição de opacidade (fumaça preta) para frota diesel. Laudo técnico conforme normas ambientais e CONAMA.
+- [NR-13 Vasos de Pressão e Caldeiras | Venancio Consultoria](/nr13): Inspeção de segurança em caldeiras, vasos de pressão, tubulações e tanques metálicos conforme NR-13.
+- [Venancio Consultoria | Saúde e Segurança do Trabalho](/home): Especialistas em Saúde e Segurança do Trabalho. PGR, PCMSO, LTCAT, treinamentos e consultoria para conformidade legal e bem-estar dos colaboradores.
