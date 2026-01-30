@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://venancioconsult.com.br/sitemap.xml
