@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO -->
+  <title>Venancio Consultoria | PGR, PCMSO, LTCAT e SST</title>
+  <meta
+    name="description"
+    content="Consultoria especializada em PGR, PCMSO, LTCAT, eSocial e Segurança do Trabalho no Rio de Janeiro."
+  />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+</head>
+
+  <meta name="google-site-verification" content="kI1cTVJ1WNbtyrKbj4mkLGU7gVCD-ym74LigtEy9Q" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJ3Y24F07W"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      // GA4
+      gtag('config', 'G-BJ3Y24F07W');
+
+      // Google Ads
+      gtag('config', 'AW-17053763410');
+
+      // ==============================
+      // FUNÇÃO GLOBAL – CONVERSÃO FORMULÁRIO
+      // ==============================
+      window.trackFormConversion = function () {
+        gtag('event', 'conversion', {
+          send_to: 'AW-17053763410/DTSHCMT71-4bENKO78M'
+        });
+      };
+  </script>
+  <!-- End Google tag -->
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+
+  <!-- Conversão WhatsApp -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        document.body.addEventListener('click', function (e) {
+          var el = e.target.closest('a');
+          if (!el) return;
+
+          var href = el.getAttribute('href') || '';
+          if (href.includes('wa.me') || href.includes('api.whatsapp.com')) {
+            gtag('event', 'conversion', {
+              send_to: 'AW-17053763410/DTSHCMT71-4bENKO78M'
+            });
+          }
+        });
+      });
+  </script>
+</body>
+
+</html>
